@@ -78,7 +78,6 @@ class CSVComparerApp:
             col = self.find_column_name(df, name) 
             if col:
                 return col
-        # If unable to find a column with the provided names it defaults to the first column
         return df.columns[0]
 
     # Compares software list

@@ -9,10 +9,13 @@ If certain software is missing from the asset, it will add that asset into the n
 ### For your Asset List:
 * First column has asset names and is named one of the following: 'asset name', 'asset', 'hostname', 'device', 'computer name'
 * Second column is named 'software'
+* All software in the 'software' column is separated by a '/' so the program can parse it correctly
 * Capitalization doesn't matter
+* See Asset List example in the CSV File Examples folder
 ### For you Software List:
 * One column named "software list" with each software item in its own row
 * Capitalization doesn't matter
+* See Software List example in the CSV File Examples folder
 ## 2. User Interface
 ![image](https://github.com/user-attachments/assets/e1714b74-a9f6-4116-b066-143cbde8220a)
 * Use buttons to upload the Asset List csv and the Software List csv.

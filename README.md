@@ -12,7 +12,7 @@ If certain software is missing from the asset, it will add that asset into the n
 * All software in the 'software' column is separated by a '/' so the program can parse it correctly
 * Capitalization doesn't matter
 * See Asset List example in the CSV File Examples folder
-### For you Software List:
+### For your Software List:
 * One column named "software list" with each software item in its own row
 * Capitalization doesn't matter
 * See Software List example in the CSV File Examples folder
